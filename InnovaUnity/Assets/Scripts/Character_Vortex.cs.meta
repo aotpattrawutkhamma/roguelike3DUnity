@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1819c106bff51874a9ae09137a9a49ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidBody: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - hpBar: {instanceID: 0}
+  - mesh: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - gunPoint: {instanceID: 0}
+  - face: {fileID: 21300000, guid: f6b0219b8499e774aa70e9e1cd44c7f9, type: 3}
+  - abi1Sprite: {fileID: 21300000, guid: a652874d138536d4f8da0dbf2899039a, type: 3}
+  - abi2Sprite: {fileID: 21300000, guid: 73da163298286274e8fcc60d557653e3, type: 3}
+  - Ulitmate: {fileID: 21300000, guid: c8cd7dd416c4e574f99751345a68a533, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
